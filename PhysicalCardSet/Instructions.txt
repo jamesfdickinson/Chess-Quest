@@ -1,0 +1,20 @@
+Instructions
+
+Chess Quest is a new way to play chess. Each player plays the chess game while secretly works on their quests.  Quests add a new dimension to the game.  At the end of the game the winner is determined by their quest points and not just a checkmate. 
+
+How to play
+
+Setup:
+Each player draws 3 Quest Cards.  Do not let your opponent see your cards.
+Setup the chess board. 
+
+Game Play:
+Play a game of chess, while secretly achieving your Quests.  All the same rules apply while playing chess.
+
+End:
+The game ends when there is a checkmate or stalemate.  Each player adds up all the points for each of their completed quests.
+
+The player that preformed a checkmate is awarded an additional 5 points for the checkmate.  
+
+The player with the most points wins!
+
